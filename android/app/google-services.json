@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621116707023",
+    "project_id": "multiplayertank-6ae2b",
+    "storage_bucket": "multiplayertank-6ae2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621116707023:android:30ba0718974646822467ba",
+        "android_client_info": {
+          "package_name": "com.example.multiplayertank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621116707023-pmprdpmhvfura1sdnjct72patmh5gcji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multiplayertank",
+            "certificate_hash": "cd102dbe65588c3ffc4b506e43257e1ed1cfeec7"
+          }
+        },
+        {
+          "client_id": "621116707023-vdvdji97j2tr7l0eahhv7t5c0iqbe9rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmwShBLAFyIngFibYm4hygzq3Fa1gG5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621116707023-vdvdji97j2tr7l0eahhv7t5c0iqbe9rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
