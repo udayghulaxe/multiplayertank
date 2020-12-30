@@ -26,7 +26,6 @@ class GameRoomScreen extends StatelessWidget {
                 textAlign: TextAlign.center,
               ),
             ),
-            if (1 == 1) Text('ji'),
             Container(
               margin: EdgeInsets.only(
                 top: 120,
